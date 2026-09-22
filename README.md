@@ -16,6 +16,5 @@ I enjoy understanding how systems work, finding weaknesses and continuously impr
 
 <div align="center">
 
-**BREAK. UNDERSTAND. BUILD.**
 
 </div>

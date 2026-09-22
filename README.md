@@ -1,4 +1,4 @@
-# Hi, I'm Marco 👋
+# Hello, I'm Marco 💫
 
 I'm currently studying cybersecurity and working toward becoming a **penetration tester**.
 

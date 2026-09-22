@@ -1,12 +1,33 @@
-# Hello, I'm Marco 💫
+<div align="center">
 
-I'm currently studying cybersecurity and working toward becoming a **penetration tester**.
+# M A R C O &nbsp; P I Z Z I N E L L I
 
-I'm interested in:
-- Penetration Testing
-- Web Security
-- Networking
-- Linux
-- Python
+### CYBERSECURITY / PENTESTING
 
-Currently learning, building projects, and improving my practical skills.
+</div>
+
+<br>
+
+I'm currently studying **cybersecurity and offensive security**, with the goal of becoming a professional **penetration tester**.
+
+I like understanding how systems work, finding weaknesses and building projects that help me improve my technical skills.
+
+<br>
+
+### CURRENTLY
+
+`Pentesting` &nbsp; `Web Security` &nbsp; `Linux` &nbsp; `Python` &nbsp; `Networking`
+
+<br>
+
+### WORKING ON
+
+Security projects, labs and tools while continuously improving my offensive security skills.
+
+<br>
+
+<div align="center">
+
+**BREAK. UNDERSTAND. BUILD.**
+
+</div>

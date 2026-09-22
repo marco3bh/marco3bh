@@ -1,6 +1,6 @@
 <div align="center">
 
-# M A R &nbsp; C O
+# M A R C O
 
 ### CYBERSECURITY / PENTESTING
 

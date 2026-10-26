@@ -1,6 +1,6 @@
 <div align="center">
 
-# M A R C O 15 Y O
+# M A R C O
  
 ### CYBERSECURITY / PENTESTING
 
@@ -8,7 +8,7 @@
 
 <br>
 
-I'm currently studying **cybersecurity and offensive security**, with the goal of becoming a professional **penetration tester**.
+I'm 15yo and i'm currently studying **cybersecurity and offensive security**, with the goal of becoming a professional **penetration tester**.
 
 I enjoy understanding how systems work, finding weaknesses and continuously improving my technical skills.
 
